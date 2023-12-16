@@ -1,6 +1,7 @@
 import React from "react";
 // import Map from "./Map";
 // import Map from "./Map";
+// import Map from "./Map";
 import FooterLinks from "./FooterLinks";
 
 const Footer = (props) => {
