@@ -1,2 +1,2 @@
-# Astrology
-It's Astrology project
+# JYOTISH
+It's JYOTISH project
